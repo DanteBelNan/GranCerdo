@@ -1,0 +1,199 @@
+# depslib dependency file v1.0
+1655675687 source:c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\funcionesl.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655341294 c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\estancias.h
+
+1655674041 c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\funcionesl.h
+
+1655673719 c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\funcionesg.h
+
+1655674252 source:c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\estancias.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655674236 source:c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655676336 source:c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\funcionesg.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1571584339 c:\users\elher\desktop\ejercicios programacion\laboratorio i\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655674252 source:c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\estancias.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1571584339 c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655341294 c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\estancias.h
+
+1655674041 c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\funcionesl.h
+
+1655673719 c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\funcionesg.h
+
+1655676336 source:c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\funcionesg.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655674236 source:c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655855219 source:c:\users\administrador\desktop\utn\laboratorio\parcial\grancerdo\funcionesl.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655674252 source:c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\estancias.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1571584339 c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1655341294 c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\estancias.h
+
+1655674041 c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\funcionesl.h
+
+1655673719 c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\funcionesg.h
+
+1655676336 source:c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\funcionesg.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655855219 source:c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\funcionesl.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
+1655674236 source:c:\users\dante\onedrive\escritorio\dante\dante no borrar\utn\primer cuatrimestre\laboratorio\parcial\grancerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<string>
+	<wchar.h>
+	<stdio.h>
+	"rlutil.h"
+	"Estancias.h"
+	"FuncionesL.h"
+	"FuncionesG.h"
+
